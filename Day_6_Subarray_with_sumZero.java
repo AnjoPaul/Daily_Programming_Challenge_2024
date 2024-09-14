@@ -39,7 +39,7 @@ public class Day_6_Subarray_with_sumZero
 
     public static void main(String[] args) 
     {
-        int[] array = {1, 2, -3, 3, -1, 2};
+        int[] array = {4,-1,-3,1,2,-1};
         
         List<int[]> subarrays = find_sum_zero(array);
 
